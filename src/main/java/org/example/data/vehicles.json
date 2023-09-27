@@ -1,0 +1,32 @@
+{
+  "vehicles": [
+    {
+      "brand": "chevrolet",
+      "type": "car",
+      "people": [
+        { "name":  "joão felipe carvalho", "age": 10, "isDriver": false },
+        { "name":  "marina floriana", "age": 19, "isDriver": true }
+      ]
+    },
+    {
+      "brand": "mercedes-benz",
+      "type": "bus",
+      "people": [
+        { "name":  "felipe roberto peixoto", "age": 10, "isDriver": false },
+        { "name":  "luara bianca ferraz ortega", "age": 26, "isDriver": true },
+        { "name":  "juliana kátia dominato grego espada", "age": 70, "isDriver": true },
+        { "name":  "domingos josiel chaves", "age": 45, "isDriver": true },
+        { "name":  "felipe branco jr.", "age": 46, "isDriver": true },
+        { "name":  "luciana maria azevedo de camacho", "age": 10, "isDriver": true },
+        { "name":  "itamar franco", "age": 6, "isDriver": true }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "type": "car",
+      "people": [
+        { "name":  "álvaro artur de batista neto", "age": 40, "isDriver": true }
+      ]
+    }
+  ]
+}
